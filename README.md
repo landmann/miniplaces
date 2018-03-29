@@ -36,6 +36,6 @@ This code assumes that the data folder is located outside of this directory at `
 
 Parts of our code were taken from the following tutorials. Proper citation was given in the write-up. 
 
-    - Madan, Spandan. "Pytorch Tutorial for Fine Tuning/Transfer Learning a Resnet for Image Classification." <https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial>
-    - PyTorch. "ImageNet Training in Pytorch". <https://github.com/pytorch/examples/blob/master/imagenet/main.py>
-    - ncullen93. "High-Level Training, Data Augmentation, and Utilities for Pytorch." <https://github.com/ncullen93/torchsample>
+1. Madan, Spandan. "Pytorch Tutorial for Fine Tuning/Transfer Learning a Resnet for Image Classification." <https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial>
+2. PyTorch. "ImageNet Training in Pytorch". <https://github.com/pytorch/examples/blob/master/imagenet/main.py>
+3. ncullen93. "High-Level Training, Data Augmentation, and Utilities for Pytorch." <https://github.com/ncullen93/torchsample>
