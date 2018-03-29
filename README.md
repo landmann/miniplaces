@@ -1,5 +1,7 @@
 # miniplaces-2017
-Code for miniplaces challenge 2017.  
+Code for miniplaces challenge 2017. 
+
+Original implementation uses ResNet-34 and achieves op-1 accuracy of 50.2% and top-5 accuracy of 78.8%.
 
 ## Brief tour of the code base: 
 
