@@ -3,6 +3,8 @@ Code for miniplaces challenge 2017.
 
 Original implementation uses ResNet-34 and achieves op-1 accuracy of 50.2% and top-5 accuracy of 78.8%.
 
+### For a detailed explanation of the code within, please refer to the [project report](https://github.com/landmann/miniplaces/blob/master/Report.pdf)
+
 ## Brief tour of the code base: 
 
 - The iPython notebooks `Transforms.ipynb` and `Visualization.ipynb` are used to generate visuals for the report 
